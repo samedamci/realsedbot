@@ -1,0 +1,2 @@
+Telegrask>=0.2.1
+shools>=0.1.2
